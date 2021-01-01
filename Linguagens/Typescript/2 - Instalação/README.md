@@ -1,0 +1,4 @@
+- Requer o Node instalado.
+- Instalar o typescript de forma global: npm i -g typescript.
+- Para testar podemos executar tsc -v.
+- Para inicializar a configuração do typescript em uma pasta fazemos: tsc --init. É criado um arquivo tsconfig.json que permite configurar o compilador do typescript. 

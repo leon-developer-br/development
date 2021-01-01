@@ -1,0 +1,7 @@
+- Criada pela Microsoft sendo baseada em Javascript.
+- No momento esta na versao 4.
+- Possui diversos recursos além daqueles disponiveis nativamente pelo Javascript.
+- É um superconjunto do Javascript.
+- Como vantagem, os recursos mais novos são inseridos mais rapidamente a linguagem.
+- Recursos: fortemente tipado, genéricos, interfaces, namespaces, decorators.
+- No final, tudo é compilado para Javascript.
